@@ -49,9 +49,3 @@
     margin: 10px;
     border-radius: 50%;
   }
-  .rainbow > div > div > div > div > div > div > div {
-    background: hsl(330, 80%, 50%);
-    height: 280px;
-    margin: 10px;
-    border-radius: 50%;
-  }
